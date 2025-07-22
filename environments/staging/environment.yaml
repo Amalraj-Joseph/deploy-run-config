@@ -13,7 +13,7 @@ app:
   # "Deploy, and run" scenario.
   maven:
     groupId: net.wasdev.wlp.sample
-    artifactId: daytrader
+    artifactId: daytrader7
     version: "1.0.0"
     type: zip
 
